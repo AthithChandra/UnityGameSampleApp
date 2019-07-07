@@ -65,67 +65,67 @@
     <Compile Include="Assets\Editor\ExportTool.cs" />
     <Compile Include="Assets\PlatformerTemplate\Editor\PatrolPathEditor.cs" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>/Users/i331202/.jenkins/workspace/TestPipeline/MyFirstUnityGame/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>/Users/i331202/Documents/SYBO/UnityGameSampleApp/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Cinemachine">
-      <HintPath>/Users/i331202/.jenkins/workspace/TestPipeline/MyFirstUnityGame/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+      <HintPath>/Users/i331202/Documents/SYBO/UnityGameSampleApp/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.multiplayer-hlapi.Editor">
-      <HintPath>/Users/i331202/.jenkins/workspace/TestPipeline/MyFirstUnityGame/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
+      <HintPath>/Users/i331202/Documents/SYBO/UnityGameSampleApp/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InteractiveTutorials.Core">
-      <HintPath>/Users/i331202/.jenkins/workspace/TestPipeline/MyFirstUnityGame/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/Unity.InteractiveTutorials.Core.dll</HintPath>
+      <HintPath>/Users/i331202/Documents/SYBO/UnityGameSampleApp/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/Unity.InteractiveTutorials.Core.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/i331202/.jenkins/workspace/TestPipeline/MyFirstUnityGame/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/i331202/Documents/SYBO/UnityGameSampleApp/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/i331202/.jenkins/workspace/TestPipeline/MyFirstUnityGame/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/i331202/Documents/SYBO/UnityGameSampleApp/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>/Users/i331202/.jenkins/workspace/TestPipeline/MyFirstUnityGame/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>/Users/i331202/Documents/SYBO/UnityGameSampleApp/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>/Users/i331202/.jenkins/workspace/TestPipeline/MyFirstUnityGame/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>/Users/i331202/Documents/SYBO/UnityGameSampleApp/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Editor">
-      <HintPath>/Users/i331202/.jenkins/workspace/TestPipeline/MyFirstUnityGame/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
+      <HintPath>/Users/i331202/Documents/SYBO/UnityGameSampleApp/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.multiplayer-weaver.Editor">
-      <HintPath>/Users/i331202/.jenkins/workspace/TestPipeline/MyFirstUnityGame/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
+      <HintPath>/Users/i331202/Documents/SYBO/UnityGameSampleApp/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
-      <HintPath>/Users/i331202/.jenkins/workspace/TestPipeline/MyFirstUnityGame/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+      <HintPath>/Users/i331202/Documents/SYBO/UnityGameSampleApp/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InteractiveTutorials.Core.Scripts">
-      <HintPath>/Users/i331202/.jenkins/workspace/TestPipeline/MyFirstUnityGame/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/Unity.InteractiveTutorials.Core.Scripts.dll</HintPath>
+      <HintPath>/Users/i331202/Documents/SYBO/UnityGameSampleApp/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/Unity.InteractiveTutorials.Core.Scripts.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Runtime">
-      <HintPath>/Users/i331202/.jenkins/workspace/TestPipeline/MyFirstUnityGame/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
+      <HintPath>/Users/i331202/Documents/SYBO/UnityGameSampleApp/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.SpatialTracking">
-      <HintPath>/Users/i331202/.jenkins/workspace/TestPipeline/MyFirstUnityGame/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
+      <HintPath>/Users/i331202/Documents/SYBO/UnityGameSampleApp/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.cinemachine.editor">
-      <HintPath>/Users/i331202/.jenkins/workspace/TestPipeline/MyFirstUnityGame/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+      <HintPath>/Users/i331202/Documents/SYBO/UnityGameSampleApp/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.InteractiveTutorialsFramework">
-      <HintPath>/Users/i331202/.jenkins/workspace/TestPipeline/MyFirstUnityGame/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/UnityEditor.InteractiveTutorialsFramework.dll</HintPath>
+      <HintPath>/Users/i331202/Documents/SYBO/UnityGameSampleApp/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/UnityEditor.InteractiveTutorialsFramework.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
-      <HintPath>/Users/i331202/.jenkins/workspace/TestPipeline/MyFirstUnityGame/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
+      <HintPath>/Users/i331202/Documents/SYBO/UnityGameSampleApp/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/i331202/.jenkins/workspace/TestPipeline/MyFirstUnityGame/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/i331202/Documents/SYBO/UnityGameSampleApp/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>/Users/i331202/.jenkins/workspace/TestPipeline/MyFirstUnityGame/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>/Users/i331202/Documents/SYBO/UnityGameSampleApp/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.XR.LegacyInputHelpers">
-      <HintPath>/Users/i331202/.jenkins/workspace/TestPipeline/MyFirstUnityGame/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
+      <HintPath>/Users/i331202/Documents/SYBO/UnityGameSampleApp/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.multiplayer-hlapi.Runtime">
-      <HintPath>/Users/i331202/.jenkins/workspace/TestPipeline/MyFirstUnityGame/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
+      <HintPath>/Users/i331202/Documents/SYBO/UnityGameSampleApp/MyFirstUnityGameCSPROJ/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -335,19 +335,19 @@
       <HintPath>/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
-      <HintPath>/Users/i331202/.jenkins/workspace/TestPipeline/MyFirstUnityGame/MyFirstUnityGameCSPROJ/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+      <HintPath>/Users/i331202/Documents/SYBO/UnityGameSampleApp/MyFirstUnityGameCSPROJ/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>/Users/i331202/.jenkins/workspace/TestPipeline/MyFirstUnityGame/MyFirstUnityGameCSPROJ/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>/Users/i331202/Documents/SYBO/UnityGameSampleApp/MyFirstUnityGameCSPROJ/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>/Users/i331202/.jenkins/workspace/TestPipeline/MyFirstUnityGame/MyFirstUnityGameCSPROJ/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>/Users/i331202/Documents/SYBO/UnityGameSampleApp/MyFirstUnityGameCSPROJ/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>/Users/i331202/.jenkins/workspace/TestPipeline/MyFirstUnityGame/MyFirstUnityGameCSPROJ/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>/Users/i331202/Documents/SYBO/UnityGameSampleApp/MyFirstUnityGameCSPROJ/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
-      <HintPath>/Users/i331202/.jenkins/workspace/TestPipeline/MyFirstUnityGame/MyFirstUnityGameCSPROJ/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
+      <HintPath>/Users/i331202/Documents/SYBO/UnityGameSampleApp/MyFirstUnityGameCSPROJ/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>/Applications/Unity/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>

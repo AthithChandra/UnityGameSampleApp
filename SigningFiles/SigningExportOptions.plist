@@ -6,8 +6,8 @@
 	<string>enterprise</string>
 	<key>provisioningProfiles</key>
 	<dict>
-		<key>com.sap.MyFirstUnityGame</key>
-		<string>SAP_SE_Generic_Distribution_Profile</string>
+		<key>com.sybo.MyFirstUnityGame</key>
+		<string>provisioning profile name</string>
 	</dict>
 </dict>
 </plist>
