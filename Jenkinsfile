@@ -2,7 +2,7 @@ timestamps{
     properties([
     parameters([choice(choices: ['Release', 'Debug'], description: 'Choose a Configuration', name: 'CONFIG')])
     ])
-node(){
+node('Parallel Node 1'){
 //Intial stage we clone our unity c-sharp project
     stage('Checkout') {
         cleanWs()
